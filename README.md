@@ -5,8 +5,11 @@
 ### https://youtu.be/1S8c2FUE3lw
 
 ## HW2:Build your VPC and Launch a web server
-![image]()
+![image](https://github.com/wutzu/AWS/blob/main/picture2.png)
 ### https://youtu.be/PXt78uvfT7A
+
+## HW3:Amazon EC2
+![image]()
 
 
 

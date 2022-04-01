@@ -9,7 +9,7 @@
 ### https://youtu.be/PXt78uvfT7A
 
 ## HW3:Amazon EC2
-![image]()
+![image](https://github.com/wutzu/AWS/blob/main/picture3.png)
 
 
 
